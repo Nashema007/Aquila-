@@ -1,1 +1,1 @@
-# Firrst Wordpress Theme -Aquila
+# First Wordpress Theme -Aquila
